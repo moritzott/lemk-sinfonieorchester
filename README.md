@@ -4,6 +4,9 @@
 
 Demo-Site: [Lemker Sinfonieorchester](https://moritzott.github.io/lemk-sinfonieorchester/)
 
+## Info
+The *docs* folder is just for Github Pages. It's similiar to the *dist* folder when you run 'npm run build'
+
 ## Project setup
 ```
 npm install
