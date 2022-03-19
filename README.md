@@ -2,6 +2,8 @@
 
 ...is a small Vue.js demo project without a router.
 
+Demo-Site: [Lemker Sinfonieorchester](https://moritzott.github.io/lemk-sinfonieorchester/)
+
 ## Project setup
 ```
 npm install
