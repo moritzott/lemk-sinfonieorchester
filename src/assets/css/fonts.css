@@ -1,0 +1,23 @@
+/* Set FONTS */
+
+/* The Sans Font */
+
+@font-face {
+    font-family: 'Proza';
+    font-style:  normal;
+    font-weight: normal;
+    src: url("../fonts/ProzaLibre-Regular.ttf") format("truetype");
+
+  }
+  
+/* The Serif Font */
+
+@font-face {
+    font-family: 'Corm';
+    font-style:  normal;
+    font-weight: normal;
+    src: url("../fonts/CormorantGaramond-Regular.ttf") format("truetype");
+
+  }
+
+  
